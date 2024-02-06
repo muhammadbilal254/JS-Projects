@@ -10,5 +10,8 @@ https://bilal-js-projects.netlify.app/calculator/
 
 ## Project 2 - Ramazan Counter
 
-https://bilal-js-projects.netlify.app/ramzan%20counter/
+https://bilal-js-projects.netlify.app/ramzan-counter/
 ![Alt text](image.png)
+
+https://bilal-js-projects.netlify.app/password-generator/
+![alt text](image-2.png)
